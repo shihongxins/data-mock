@@ -1,0 +1,23 @@
+{
+    "code":200,
+    "list":[
+        {
+            "id":0,
+            "title":"Everything at Once",
+            "artist":"Lenka",
+            "album":"Two (Expanded Edition)",
+            "albumImg":"/music/Two (Expanded Edition) - Lenka.png",
+            "url":"/music/Everything at Once - Lenka.flac",
+            "lyric":"music/Everything at Once - Lenka_lyric.json"
+        },
+        {
+            "id":1,
+            "title":"The End Of The World",
+            "artist":"Skeeter Davis",
+            "album":"The Essential Skeeter Davis",
+            "albumImg":"music/The Essential Skeeter Davis.jpg",
+            "url":"music/The End Of The World - Skeeter Davis.mp3",
+            "lyric":"music/The End Of The World - Skeeter Davis_lyric.json"
+        }
+    ]
+}
