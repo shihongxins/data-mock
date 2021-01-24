@@ -6,18 +6,18 @@
             "title":"Everything at Once",
             "artist":"Lenka",
             "album":"Two (Expanded Edition)",
-            "albumImg":"/music/Two (Expanded Edition) - Lenka.png",
-            "url":"/music/Everything at Once - Lenka.flac",
-            "lyric":"music/Everything at Once - Lenka_lyric.json"
+            "albumImg":"https://shihongxins.github.io/data-mock/music/Two (Expanded Edition) - Lenka.png",
+            "url":"https://shihongxins.github.io/data-mock/music/Everything at Once - Lenka.flac",
+            "lyric":"https://shihongxins.github.io/data-mock/music/Everything at Once - Lenka_lyric.json"
         },
         {
             "id":1,
             "title":"The End Of The World",
             "artist":"Skeeter Davis",
             "album":"The Essential Skeeter Davis",
-            "albumImg":"music/The Essential Skeeter Davis.jpg",
-            "url":"music/The End Of The World - Skeeter Davis.mp3",
-            "lyric":"music/The End Of The World - Skeeter Davis_lyric.json"
+            "albumImg":"https://shihongxins.github.io/data-mock/music/The Essential Skeeter Davis.jpg",
+            "url":"https://shihongxins.github.io/data-mock/music/The End Of The World - Skeeter Davis.mp3",
+            "lyric":"https://shihongxins.github.io/data-mock/music/The End Of The World - Skeeter Davis_lyric.json"
         }
     ]
 }
