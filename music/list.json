@@ -18,6 +18,15 @@
             "albumImg":"https://shihongxins.github.io/data-mock/music/The Essential Skeeter Davis.jpg",
             "url":"https://shihongxins.github.io/data-mock/music/The End Of The World - Skeeter Davis.mp3",
             "lyric":"https://shihongxins.github.io/data-mock/music/The End Of The World - Skeeter Davis_lyric.json"
+        },
+        {
+            "id":2,
+            "title":"喜帖街",
+            "artist":"谢安琪",
+            "album":"Binary",
+            "albumImg":"https://shihongxins.github.io/data-mock/music/喜帖街 - 谢安琪.jpg",
+            "url":"https://shihongxins.github.io/data-mock/music/喜帖街 - 谢安琪.mp3",
+            "lyric":"https://shihongxins.github.io/data-mock/music/喜帖街 - 谢安琪_lyric.json"
         }
     ]
 }
